@@ -1,38 +1,52 @@
-Loading and saving data
-    
-    - [ ] Data frames
+## Descriptive Statistic in FIVE different Programing Languages </p>
+| Chapter | C#  | Julia | MATLAB/Octave | Python |  R  | 
+| :--- | :---: | :---: | :---: | :---: | :---: |
+*Loading and saving data* | [ ] |  [ ]  |      [ ]      |  [ ]   | [ ] |
+*Data manipulation*       | [ ] |  [ ]  |      [ ]      |  [ ]   | [ ] |
+*Descriptive statistic*   | [ ] |  [ ]  |      [ ]      |  [ ]   | [ ] |
+*Graphs*                  | [ ] |  [ ]  |      [ ]      |  [ ]   | [ ] |
+|                       |   |   |   |   |   |
+</p>
 
-Data manipulation
+*Loading and saving data*
 
-    - [ ] Tabulating and cross-tabulating data
+    [ ] Data frames                         
 
-    - [ ] Transforming and recoding variable
+    [ ] Matrix
 
-    - [ ] Extracting subset of a vector
+    [ ] Vector
 
-    - [ ] Extracting subset of data frame
+*Data manipulation*
 
-    - [ ] Sorting, flipping and merging of data
+    [ ] Tabulating and cross-tabulating data
 
-Descriptive statistic
+    [ ] Transforming and recoding variable
 
-    - [ ] Measures of central tendency
+    [ ] Extracting subset of a vector
 
-    - [ ] Measures of variability
+    [ ] Extracting subset of data frame
 
-    - [ ] Skew and kurtosis
+    [ ] Sorting, flipping and merging of data
 
-    - [ ] Correlations
+*Descriptive statistic*
 
-    - [ ] Z Scores
+    [ ] Measures of central tendency
 
-Graphs
+    [ ] Measures of variability
 
-    - [ ] Histograms
+    [ ] Skew and kurtosis
 
-    - [ ] Boxplots
+    [ ] Correlations
 
-    - [ ] Scatterplots
+    [ ] Z Scores
 
-    - [ ] Bar graphs
+*Graphs*
+
+    [ ] Histograms
+
+    [ ] Boxplots
+
+    [ ] Scatterplots
+
+    [ ] Bar graphs
 
