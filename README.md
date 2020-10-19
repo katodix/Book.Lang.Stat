@@ -8,79 +8,79 @@
 |                       |   |   |   |   |   |
 </p>
 
-*Loading and saving data*
+*1. Loading and saving data*
 
-    [ ] Data frames                         
+    [ ] 1.1 Data frames                         
 
-    [ ] Matrix
+    [ ] 1.2 Matrix
 
-    [ ] Vector
+    [ ] 1.3 Vector
 
-*Data manipulation*
+*2. Data manipulation*
 
-    [ ] Tabulating and cross-tabulating data
+    [ ] 2.1 Tabulating and cross-tabulating data
 
-        [ ] Creating tables from vectors
+        [ ] 2.1.1 Creating tables from vectors
 
-        [ ] Creating tables from data frames
+        [ ] 2.1.2 Creating tables from data frames
 
-        [ ] Frequencies
+        [ ] 2.1.3 Frequencies
 
-    [ ] Transforming and recoding variable
+    [ ] 2.2 Transforming and recoding variable
 
-        [ ] Transform numeric variable into categories
+        [ ] 2.2.1 Transform numeric variable into categories
 
-    [ ] Extracting subset of a vector
+    [ ] 2.3 Extracting subset of a vector
 
-    [ ] Extracting subset of data frame
+    [ ] 2.4 Extracting subset of data frame
 
-    [ ] Sorting, flipping and merging of data
+    [ ] 2.5 Sorting, flipping and merging of data
 
-        [ ] Sorting a numeric or character
+        [ ] 2.5.1 Sorting a numeric or character
 
-        [ ]vSorting factor
+        [ ] 2.5.2 Sorting factor
 
-        [ ]vSorting data frame
+        [ ] 2.5.3 Sorting data frame
 
-*Descriptive statistic*
+*3. Descriptive statistic*
 
-    [ ] Measures of central tendency
+    [ ] 3.1 Measures of central tendency
 
-        [ ] Mean
+        [ ] 3.1.1 Mean
 
-        [ ] Median
+        [ ] 3.1.2 Median
 
-        [ ] Mode
+        [ ] 3.1.3 Mode
 
-    [ ] Measures of variability
+    [ ] 3.2 Measures of variability
 
-        [ ] Range
+        [ ] 3.2.1 Range
 
-        [ ] Interquartile range
+        [ ] 3.2.2 Interquartile range
 
-        [ ] Mean absolute variance
+        [ ] 3.2.3 Mean absolute variance
 
-        [ ] Median absolute deviation
+        [ ] 3.2.4 Median absolute deviation
 
-        [ ] Variance
+        [ ] 3.2.5 Variance
 
-        [ ] Standard deviation
+        [ ] 3.2.6 Standard deviation
 
-    [ ] Skew and kurtosis
+    [ ] 3.3 Skew and kurtosis
 
-    [ ] Correlations
+    [ ] 3.4 Correlations
 
-    [ ] Spearman's rank correlations
+    [ ] 3.5 Spearman's rank correlations
 
-    [ ] Z Scores
+    [ ] 3.6 Z-Scores
 
-*Graphs*
+*4. Graphs*
 
-    [ ] Histograms
+    [ ] 4.1 Histograms
 
-    [ ] Boxplots
+    [ ] 4.2 Boxplots
 
-    [ ] Scatterplots
+    [ ] 4.3 Scatterplots
 
-    [ ] Bar graphs
+    [ ] 4.4 Bar graphs
 
