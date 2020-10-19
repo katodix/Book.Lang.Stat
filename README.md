@@ -20,15 +20,15 @@
 
     [ ] Tabulating and cross-tabulating data
 
-            Creating tables from vectors
+        [ ] Creating tables from vectors
 
-            Creating tables from data frames
+        [ ] Creating tables from data frames
 
-            Frequencies
+        [ ] Frequencies
 
     [ ] Transforming and recoding variable
 
-            Transform numeric variable into categories
+        [ ] Transform numeric variable into categories
 
     [ ] Extracting subset of a vector
 
@@ -36,35 +36,35 @@
 
     [ ] Sorting, flipping and merging of data
 
-            Sorting a numeric or character
+        [ ] Sorting a numeric or character
 
-            Sorting factor
+        [ ]vSorting factor
 
-            Sorting data frame
+        [ ]vSorting data frame
 
 *Descriptive statistic*
 
     [ ] Measures of central tendency
 
-            Mean
+        [ ] Mean
 
-            Median
+        [ ] Median
 
-            Mode
+        [ ] Mode
 
     [ ] Measures of variability
 
-            Range
+        [ ] Range
 
-            Interquartile range
+        [ ] Interquartile range
 
-            Mean absolute variance
+        [ ] Mean absolute variance
 
-            Median absolute deviation
+        [ ] Median absolute deviation
 
-            Variance
+        [ ] Variance
 
-            Standard deviation
+        [ ] Standard deviation
 
     [ ] Skew and kurtosis
 
