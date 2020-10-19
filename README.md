@@ -1,3 +1,3 @@
 # Book.Lang.Stat
 
-Descriptive Statistic in FIVE differnt Programing Languages.
+Descriptive Statistic in FIVE different Programing Languages.
