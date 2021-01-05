@@ -2,6 +2,7 @@
 | Chapter | C#  | Julia | MATLAB/Octave | Python |  R  | 
 | :--- | :---: | :---: | :---: | :---: | :---: |
 *Loading and saving data* | [ ] |  [ ]  |      [ ]      |  [ ]   | [ ] |
+*Data Serialization*
 *Data manipulation*       | [ ] |  [ ]  |      [ ]      |  [ ]   | [ ] |
 *Descriptive statistic*   | [ ] |  [ ]  |      [ ]      |  [ ]   | [ ] |
 *Graphs*                  | [ ] |  [ ]  |      [ ]      |  [ ]   | [ ] |
@@ -16,7 +17,7 @@
 
     [ ] 1.3 Vector
     
-*2. Data Serialization
+*2. Data Serialization*
 
 *3. Data manipulation*
 
