@@ -1,11 +1,11 @@
 ## Descriptive Statistic in FIVE different Programing Languages </p>
 | Chapter | C#  | Julia | MATLAB/Octave | Python |  R  | 
 | :--- | :---: | :---: | :---: | :---: | :---: |
-*Loading and saving data* | [ ] |  [ ]  |      [ ]      |  [ ]   | [ ] |
-*Data Serialization*
-*Data manipulation*       | [ ] |  [ ]  |      [ ]      |  [ ]   | [ ] |
-*Descriptive statistic*   | [ ] |  [ ]  |      [ ]      |  [ ]   | [ ] |
-*Graphs*                  | [ ] |  [ ]  |      [ ]      |  [ ]   | [ ] |
+*Loading and saving data* | &#9744; | &#9744; | &#9744; | &#9744; | &#9744; |
+*Data Serialization* | &#9744; | &#9744; | &#9744; | &#9744; | &#9744; |
+*Data manipulation* | &#9744; | &#9744; | &#9744; | &#9744; | &#9744; |
+*Descriptive statistic* | &#9744; | &#9744; | &#9744; | &#9744; | &#9744; |
+*Graphs* | &#9744; | &#9744; | &#9744; | &#9744; | &#9744; |
 |                       |   |   |   |   |   |
 </p>
 
